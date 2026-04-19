@@ -69,10 +69,10 @@ function Home() {
               />
               <div className="absolute inset-x-0 bottom-0 flex items-end justify-between border-t border-paper/20 bg-gradient-to-t from-ink/60 to-transparent p-4 text-paper">
                 <span className="font-mono text-[10px] uppercase tracking-[0.2em]">
-                  Fig. 01
+                  
                 </span>
                 <span className="font-mono text-[10px] uppercase tracking-[0.2em]">
-                  IIT Delhi · 2026
+                  
                 </span>
               </div>
             </div>
