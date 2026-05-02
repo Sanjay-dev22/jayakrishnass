@@ -1,8 +1,8 @@
-# 📚 Research Profile Platform
+# 📚 Profile Website with CMS
 
 ## 🚀 Overview
 
-A full-stack web application for a researcher to manage and showcase his academic profile through a dynamic and editable interface.
+A full-stack web application with CMS functionality to manage and showcase academic profile through a dynamic and editable interface.
 
 The system includes an **admin dashboard**, authentication, and backend integration using Supabase for real-time data management.
 
@@ -22,8 +22,8 @@ The system includes an **admin dashboard**, authentication, and backend integrat
 
 ### 👤 Public Profile
 
-* Research profile display
-* Publications and content sections
+* Profile content display
+* Structured content sections
 * Clean and responsive UI
 
 ---
