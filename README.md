@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-A full-stack web application that allows researchers to manage and showcase their academic profile through a dynamic and editable interface.
+A full-stack web application for a researcher to manage and showcase his academic profile through a dynamic and editable interface.
 
 The system includes an **admin dashboard**, authentication, and backend integration using Supabase for real-time data management.
 
